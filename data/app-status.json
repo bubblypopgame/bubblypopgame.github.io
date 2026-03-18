@@ -1,5 +1,5 @@
 {
-  "notification_id": "welcome_001",
+  "notification_id": "welcome_002",
   "notification_type": "info",
   "force_update": false,
   "messages": {
@@ -8,7 +8,7 @@
       "body": "BublyPop'a Hoş geldin!"
     },
     "en": {
-      "title": BubblyPop",
+      "title": "BubblyPop",
       "body": "Welcone to BubblyPop!"
     }
   }
