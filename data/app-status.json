@@ -4,11 +4,11 @@
   "force_update": false,
   "messages": {
     "tr": {
-      "title": "BubblyPop",
+      "title": "BUBBLYPOP",
       "body": "BublyPop'a Hoş geldin!"
     },
     "en": {
-      "title": "BubblyPop",
+      "title": "BUBBLYPOP",
       "body": "Welcome to BubblyPop!"
     }
   }
