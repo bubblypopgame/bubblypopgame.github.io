@@ -1,15 +1,15 @@
 {
-  "notification_id": "duyuru_001",
+  "notification_id": "welcome_001",
   "notification_type": "info",
   "force_update": false,
   "messages": {
     "tr": {
       "title": "BubblyPop",
-      "body": "BublyPop'a hoş geldin!"
+      "body": "BublyPop'a Hoş geldin!"
     },
     "en": {
       "title": BubblyPop",
-      "body": "Welcone to Bubblypop!"
+      "body": "Welcone to BubblyPop!"
     }
   }
 }
