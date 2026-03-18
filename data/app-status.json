@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.0.0",
+  "notification_id": "update_001",
+  "message_title": "Hoş Geldin!",
+  "message_body": "BubblyPop bildirim sistemi başarıyla kuruldu. Artık buradan sana güncellemeleri göndereceğim!",
+  "notification_type": "info",
+  "force_update": false
+}
