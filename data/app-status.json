@@ -1,14 +1,17 @@
 {
-  "notification_id": "duyuru_002",
+  "notification_id": "duyuru_001",
+  "notification_type": "info",
+  "force_update": false,
   "messages": {
-    "tr": { 
-      "title": "Selam!", 
-      "body": "Yeni bölümler eklendi, hemen bak." 
+    "tr": {
+      "title": "BubblyPop",
+      "body": "BublyPop'a hoş geldin!"
     },
-    "en": { 
-      "title": "Hello!", 
-      "body": "New levels added, check them out now." 
+    "en": {
+      "title": BubblyPop",
+      "body": "Welcone to Bubblypop!"
     }
   }
 }
+
 
