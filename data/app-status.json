@@ -1,8 +1,14 @@
 {
-  "latest_version": "1.0.0",
-  "notification_id": "update_001",
-  "message_title": "Hoş Geldin!",
-  "message_body": "BubblyPop bildirim sistemi başarıyla kuruldu. Artık buradan sana güncellemeleri göndereceğim!",
-  "notification_type": "info",
-  "force_update": false
+  "notification_id": "duyuru_002",
+  "messages": {
+    "tr": { 
+      "title": "Selam!", 
+      "body": "Yeni bölümler eklendi, hemen bak." 
+    },
+    "en": { 
+      "title": "Hello!", 
+      "body": "New levels added, check them out now." 
+    }
+  }
 }
+
