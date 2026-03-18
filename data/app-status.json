@@ -1,14 +1,14 @@
 {
-  "notification_id": "welcome_005",
+  "notification_id": "welcome_006",
   "notification_type": "info",
   "force_update": false,
   "messages": {
     "tr": {
-      "title": "BUBBLYPOP",
+      "title": "BubblyPop",
       "body": "BublyPop'a Hoş geldin!"
     },
     "en": {
-      "title": "BUBBLYPOP",
+      "title": "BubblyPop",
       "body": "Welcome to BubblyPop!"
     }
   }
